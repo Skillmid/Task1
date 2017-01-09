@@ -1,0 +1,205 @@
+
+.main{
+	padding: 0 175px 0 110px;   
+	position: relative;
+	height: 100em;
+}
+
+.top{
+    background-image: url("koi.jpg");
+	padding: 0 160px 0 130px;  
+	margin top: 0; 
+	position: relative;
+    height: 10em;
+	}
+
+.topleft
+{
+	padding: 3%;
+
+}
+
+.topright
+{
+	width: 30%;
+	height: 35%;
+	float:right;
+	margin-top: -17%;
+    color:red;
+}
+
+.topright p
+{
+	font-family: monospace;
+	color:#A1BBBC;
+	font-size: 1.5em;
+    text-align: center;
+}
+
+.firstinfo
+{
+	width: 60%;
+	height: 39%;
+	background-color: white;
+	
+}
+
+.secondinfo
+{
+	width:60%;
+	background-color:#BED7C7;
+	height: 30%;
+	
+	margin-top: 2%;
+}
+.thirdinfo
+{
+	width: 60%;
+	height: 30%;
+	
+}
+.bottom
+{
+width: 100%
+height:10%;
+background-image: url("koi.jpg");
+padding: 0 160px 0 130px;  
+margin-top: -2%;
+color: #839B96;
+}
+.bottom p
+{
+	font-family: all;
+	font-size: 1.5em;
+	padding: 7%;
+	text-align: center;
+}
+.bottom a
+{
+	text-decoration: none;
+	color: #C2CDCB;
+}
+.last
+{
+	width: 100%;
+	height:7em;
+	
+	background-color: #134347;
+	margin-top: -3%;
+}
+.side
+{
+	float: right;
+	width: 39.5%;
+	height: 101.5em;
+	
+	margin-top: -180.2%;
+	background-color: #E5EDE8;
+}
+.side ul {
+	margin: 0;
+	padding: 15%;
+	}
+
+.side p
+{
+	font-family: all;
+	color:  #AFBCBA;
+	font-size: 1.2em;
+}
+.side li {
+	
+	display: block; 
+	list-style-type: none;
+	}
+	.side a
+	{
+		color: black;
+		font-size: 1em;
+		font-family: all;
+		
+	}
+
+
+.firstsegment
+{
+	height: 40.7%;
+   padding: 0%;
+   background-color: #E5EDE8;
+
+}
+.secondsegment
+{
+	background-color: #B6D0C1;
+	height: 29.6%;
+}
+.secondsegment p
+{
+	color:#819893;
+}
+div h4
+{
+	text-indent: 70%;
+	color:white;
+
+}
+
+div h1
+{
+	color:white;
+	text-indent: 5%;
+	display: block;
+}
+div h2
+{
+ 	color: #A1BBBC;
+ 	text-indent: 5%;
+ 	font-style: italic;
+ 	font-family:all;
+
+}
+a
+{
+	text-decoration: none;
+}
+
+
+.text1 {
+	  
+	float: left;
+	margin-left: 10%; 
+	 margin-top: 7.5%;
+
+	}
+
+.text2 {
+	float: left; 
+	margin-left: 10%;
+	}
+
+.text3 {
+	float: left; 
+	margin-left: 10%;
+	}
+
+.text4 {
+	float: left; 
+	margin-left: 10%;
+	}
+.text5 {
+	float: left; 
+	margin-left: 10%;
+	}
+.text6 {
+	float: left; 
+	margin-left: 10%;
+	}
+h3 { 
+	font: georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #7D775C;
+
+	}
+
+
